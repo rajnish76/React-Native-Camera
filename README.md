@@ -13,5 +13,5 @@ npm install
 npx react-native run-android
 ```
 
- Version: 1.0.0
+- Version: 1.0.0
 - Author: Rajnish Srivastava
